@@ -17,7 +17,7 @@ When I first started to use Unity, I wanted to create a 2D isometric game. Howev
 
 [![Animation Generator 1](/assets/sprite-animation-generator/screen1.png)](/assets/sprite-animation-generator/screen1.png)
 
-While there are only 4 steps, each sprite sheet animation had 5 facing directions as a result of the isometric view which diagonal directional movements. To add to this, each player entity had multiple body parts i.e. hands, legs, body, head, hair etc. Unity also slows down when the project becomes large especially when there are too many assets.
+While there are only 4 steps, each sprite sheet animation had 5 facing directions as a result of the isometric view which has diagonal directional movements. To add to this, each player entity had multiple body parts i.e. hands, legs, body, head, hair etc. Unity also slows down when the project becomes large especially when there are too many assets.
 
 It took me about close to 3 hours to finish one spritesheet with about 10 animations with 5 directions and multiple body parts... which was unacceptable. Imagine the hours spent creating animations from spritesheets manually.
 
