@@ -8,9 +8,9 @@ date: 2024-05-04
 
 ## About
 
-It becomes difficult to create isometric sprite sheets that needs to be split into sprites. Placement becomes even more difficult especially when these objects can be stacked and split from one another for [sorting purposes]({% link _posts/2024-05-30-isometric-sprite-editor.md %}).
+Creating isometric sprite sheets that needs to be split into sprites becomes difficult as the number of sprites increases. It doesn't help the artist if the shapes are irregularly shaped i.e. not square. Correct placement in the sheets is even more difficult especially when these objects can be stacked and split from one another for [sorting purposes]({% link _posts/2024-05-30-isometric-sprite-editor.md %}). This has been our experience when creating our isometric game.
 
-What can be created to assist the workflow of pixel artists for isometric sprite sheets?
+What tool can assist the workflow of pixel artists in creating isometric sprite sheets?
 
 ## Solution
 
