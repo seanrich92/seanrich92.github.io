@@ -49,7 +49,7 @@ By creating a sprite editor similar to Unity's but specifically catered to isome
 
 ## Closing Thoughts
 
-This was my second custom tool in Unity and up to now I still find ways to improve it, from adding more features that the game needs, to finding some subtle bugs and fixing it. Without this tool, the isometric sprites would've been limited to a square shaped design which would limit the design of the game.
+This was my second custom tool in Unity and up to now I still find ways to improve it, from adding more features that the game needs, to finding some subtle bugs and fixing it. Without this tool, the isometric sprites would've been limited to a square shaped in design which would limit the aesthetics of the game.
 
 [![Isometric Sprite Editor 6](/assets/iso-split-editor/screen2.png)](/assets/iso-split-editor/screen2.png)
 
