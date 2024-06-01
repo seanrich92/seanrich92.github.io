@@ -1,0 +1,11 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: <font size="+2"><b>My Tools</b></font>
+    emoji: 🛠
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: All Tools...
+      show_more_url: archive.html

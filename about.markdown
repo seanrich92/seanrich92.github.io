@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Sean Uy, a software developer with a background in Unity, C# and data science related fields.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My research interest during my graduate studies focused on machine learning and neural networks with a focus on medical applications. Other than data science, I am also interested in graphics and game programming which I've applied on my projects in Unity.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Primarily, this site will showcase the range of Unity and other game tools that I've developed and the rationale behind each of them. Hopefully, I'll be able to show why these tools are useful even it is used my own projects.
