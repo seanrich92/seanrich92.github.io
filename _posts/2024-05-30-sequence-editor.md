@@ -42,6 +42,6 @@ Lastly, the sequence editor is great at modifying sequences as it is able to reo
 
 ## Closing Thoughts
 
-Creating cutscenes became much easier and the workflow became much more robust. Iteration also became quicker and it was easier to integrate other assets like the [Bone Animation System]({% link _posts/2024-05-30-bone-sprite-animation-system.md %}) and the [Text Animator for Unity](https://assetstore.unity.com/packages/tools/gui/text-animator-for-unity-254677). For future improvements, this system can be probably modified for driving other systems such as the AI of the game as well and the custom inspectors could be made automatically.
+Creating cutscenes became much easier and the workflow became much more robust. Iteration also became quicker and it was easier to integrate other assets like the [Bone Animation System]({% link _posts/2024-05-30-bone-sprite-animation-system.md %}) and the [Text Animator for Unity](https://assetstore.unity.com/packages/tools/gui/text-animator-for-unity-254677). For future improvements, this system can probably be modified for driving other systems such as the AI of the game and the custom inspectors could be generated automatically or with the help of another tool.
 
 [^1]: Credits to Radical Fish Games for the placeholder sprite in the dialogue box
