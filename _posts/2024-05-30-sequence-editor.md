@@ -8,7 +8,7 @@ date: 2024-05-05
 
 ## About
 
-When prototyping our isometric game in Unity, we initially used some asset store tools to develop quickly. However when doing this, you need to stick to the workflow of these assets. One such asset that we used was the [Dialogue System for Unity](https://assetstore.unity.com/packages/tools/behavior-ai/dialogue-system-for-unity-11672).
+When prototyping our isometric game in Unity, we initially used some asset store tools to develop quickly. However when doing this, we had to follow the workflow of these assets. One such asset that we used was the [Dialogue System for Unity](https://assetstore.unity.com/packages/tools/behavior-ai/dialogue-system-for-unity-11672).
 
 [![Sequence Editor 2](/assets/sequence-editor/screen3.png){:style="display:block; margin-left:auto; margin-right:auto"}](/assets/sequence-editor/screen3.png)
 
