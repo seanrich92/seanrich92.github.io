@@ -59,7 +59,7 @@ Currently while the system can run in real-time but the values are currently bak
 
 ## Other Features
 
-The nice part of this system is that since the bone sprites can be changed anytime during the animation, the character can be made more dynamic. An example is here the character is blinking while the character is running.
+The nice part of this system is that since the bone sprites can be changed anytime during the animation, the character can be made more dynamic. An example is here the character is blinking while the character is running. If you noticed in some GIFs, the hair sprite is also changing during the animation which gives an illusion of movement.
 
 [![Bone Sprite Animation System 9](/assets/bone-animation-system/screen9.gif){:style="display:block; margin-left:auto; margin-right:auto"}](/assets/bone-animation-system/screen9.gif)
 
