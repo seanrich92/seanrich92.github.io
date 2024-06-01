@@ -14,7 +14,7 @@ When prototyping our isometric game in Unity, we initially used some asset store
 
 It's a great asset and used by incredible games such as Disco Elysium and other hit games. I'm not saying this asset is bad, but you need to adopt your workflow and work with any limitations the asset might have. One such workflow is the cutscene system which they call as their Sequences and the Sequencer Commands. You need to use Lua in the inspector without any type checking which is error prone and cumbersome to remember.
 
-[![Sequence Editor 1](/assets/sequence-editor/screen1.png){:style="display:block; margin-left:auto; margin-right:auto"}](/assets/sequence-editor/screen1.png)
+[![Sequence Editor 1](/assets/sequence-editor/screen1.PNG){:style="display:block; margin-left:auto; margin-right:auto"}](/assets/sequence-editor/screen1.PNG)
 
 Additionally to view the cutscene, the game needs to played everytime which takes time to start. What I'm looking for is a cutscene system that works in the Editor as well as in Play mode and is easy to edit and modify.
 
@@ -22,7 +22,7 @@ Additionally to view the cutscene, the game needs to played everytime which take
 
 When we were search for a nicer way to create our cutscenes or even the just NPC dialogues, we stumbled on the talk of CrossCode developer Felix Klein. He talked about presenting sequences of commands like the same way as the Event Editor in RPG Maker as they used RPG Maker extensively before. In this way, errors can be isolated to individual sequences and these sequences can be turned off/on and reordered on command.
 
-[![Sequence Editor 3](/assets/sequence-editor/screen4.png){:style="display:block; margin-left:auto; margin-right:auto"}](/assets/sequence-editor/screen4.png)
+[![Sequence Editor 3](/assets/sequence-editor/screen4.PNG){:style="display:block; margin-left:auto; margin-right:auto"}](/assets/sequence-editor/screen4.PNG)
 
 So the idea of combining the Step/Event Editor to the Sequence and Sequencer Commands was born.
 

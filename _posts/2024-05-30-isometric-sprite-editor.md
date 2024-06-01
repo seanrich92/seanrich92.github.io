@@ -12,7 +12,7 @@ One of the hardest challenges I faced when doing an isometric 2D game was sortin
 
 So a quick background on sorting. You can set a custom pivot in Unity's settings to do [isometric sorting](https://docs.unity3d.com/Manual/Tilemap-Isometric-CreateIso.html). While this works on regular shaped square sprites, this fails easily on irregular shaped sprites. What do I mean?
 
-[![Isometric Sprite Editor 1](/assets/iso-split-editor/screen3.png)](/assets/iso-split-editor/screen3.png)
+[![Isometric Sprite Editor 1](/assets/iso-split-editor/screen3.PNG)](/assets/iso-split-editor/screen3.PNG)
 
 In this sprite you can easily see the red dot in the middle which represents the sorting point of the sprite. This means that anything below the red dot is drawn above it while anything behind the red dot is drawn behind. This works well as you can easily change the sorting point of the sprite in the sprite editor. However how would you sort something like this?
 
@@ -32,7 +32,7 @@ So how do I do perfect sprite subdivision without incurring any errors and doing
 
 By creating a sprite editor similar to Unity's but specifically catered to isometric sprite subdivision, I can easily automate the task after generating the bounds of the sprite. With a bit of math, I can then just use the generated split sprites then place them perfectly in the tilemaps or sprite renderers to make it seem like they are just one sprite.
 
-[![Isometric Sprite Editor 5](/assets/iso-split-editor/screen7.png)](/assets/iso-split-editor/screen7.png)
+[![Isometric Sprite Editor 5](/assets/iso-split-editor/screen7.PNG)](/assets/iso-split-editor/screen7.PNG)
 
 ### Features
 
