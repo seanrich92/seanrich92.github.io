@@ -20,7 +20,7 @@ Additionally to view the cutscene, the game needs to played everytime which take
 
 ## Credit
 
-When we were search for a nicer way to create our cutscenes or even the just NPC dialogues, we stumbled on the talk of CrossCode developer Felix Klein. He talked about presenting sequences of commands like the same way as the Event Editor in RPG Maker as they used RPG Maker extensively before. In this way, errors can be isolated to individual sequences and these sequences can be turned off/on and reordered on command.
+When we were search for a nicer way to create our cutscenes or even the just NPC dialogues, we stumbled on the talk of [CrossCode developer Felix Klein](https://youtu.be/Q-nVFXPIIPU?t=7845). He talked about presenting sequences of commands like the same way as the Event Editor in RPG Maker as they used RPG Maker extensively before. In this way, errors can be isolated to individual sequences and these sequences can be turned off/on and reordered on command.
 
 [![Sequence Editor 3](/assets/sequence-editor/screen4.PNG){:style="display:block; margin-left:auto; margin-right:auto"}](/assets/sequence-editor/screen4.PNG)
 

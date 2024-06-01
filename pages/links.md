@@ -5,7 +5,7 @@ title: 🔗 Interesting Links
 
 ## 🎮 Game Development
 
-### [CrossCode Lessons](https://youtu.be/Q-nVFXPIIPU?list=PLcKGQB7ZR-D3mytVECFHH0o85cl__IG7F&t=7740)
+### [CrossCode Lessons](https://youtu.be/Q-nVFXPIIPU?t=784)
 
 ### [Game Design as Search Optimization](https://www.youtube.com/watch?v=o5K0uqhxgsE)
 
