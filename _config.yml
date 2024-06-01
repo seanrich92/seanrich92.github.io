@@ -38,6 +38,7 @@ theme: minima
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
 
 plugins:
   - jekyll-feed
