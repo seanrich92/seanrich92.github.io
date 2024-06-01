@@ -31,9 +31,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
 
+
 # Build settings
-#theme: minima
-theme: no-style-please
+theme: minima
+#theme: no-style-please
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
