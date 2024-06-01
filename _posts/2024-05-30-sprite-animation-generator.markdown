@@ -17,13 +17,13 @@ When I first started to use Unity, I wanted to create a 2D isometric game. Howev
 
 [![Animation Generator 1](/assets/sprite-animation-generator/screen1.png)](/assets/sprite-animation-generator/screen1.png)
 
-While there are only 4 steps, each sprite sheet animation had 5 facing directions due to being isometric with diagonal directional movements. To add to this, each player entity had multiple body parts i.e. hands, legs, body, head, hair etc. Unity also slows down when the project becomes large...
+While there are only 4 steps, each sprite sheet animation had 5 facing directions as a result of the isometric view which diagonal directional movements. To add to this, each player entity had multiple body parts i.e. hands, legs, body, head, hair etc. Unity also slows down when the project becomes large especially when there are too many assets.
 
 It took me about close to 3 hours to finish one spritesheet with about 10 animations with 5 directions and multiple body parts... which was unacceptable. Imagine the hours spent creating animations from spritesheets manually.
 
 ## Solution
 
-What I initially thought of was to have a tool that would display the split sprite sheet in a window and allow the user to dictate the sprites for the clip. It should also give the user the capability name the assets quickly and sort them into the appropriate folder. This should in theory, speed the workflow for the user from hours to maybe a minute or two.
+What I initially conceived was a tool that would display the split sprite sheet in a window and allow the user to select the sprites for the animation clip. It should also give the user the capability to name the assets quickly and sort them into the appropriate folder. This should in theory, speed the workflow for the user from hours to maybe a minute or two.
 
 [![Animation Generator 2](/assets/sprite-animation-generator/screen2.png)](/assets/sprite-animation-generator/screen2.png)
 
@@ -43,7 +43,7 @@ What I initially thought of was to have a tool that would display the split spri
 
 ## Closing Thoughts
 
-As this was my venture into creating a custom tool in Unity, it took some time to create this tool (2 weeks total) and it wasn't the best but I was happy when I finished it. I should've thought of adding a preview of the animation that will be generated from the sprites but it slipped my mind. I found this is a good exercise to start in creating custom tools for unity as it wasn't too complex but it wasn't also too easy.
+As this was my venture into creating a custom tool in Unity, it took some time to create this tool (2 weeks total) and it wasn't the best but I was happy when I finished it. I should've thought of adding a preview of the animation that will be generated from the sprites but it slipped my mind. I found this is a good starting exercise when creating custom tools for unity as it wasn't too complex but it wasn't also too easy.
 
 I also would recommend for those who can't create their own tools to look into these asset store assets for 2d animation.
 

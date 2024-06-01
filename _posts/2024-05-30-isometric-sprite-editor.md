@@ -8,7 +8,7 @@ date: 2024-05-02
 
 ## About
 
-One of the hardest challenges I faced when doing an isometric 2D game was sorting. Making the graphics look coherent when there are hundreds of irregular shaped objects became an issue.
+One of the hardest challenges I faced when doing an isometric 2D game was sorting. Making the sprites look coherent in-game when there are hundreds of irregular shaped objects became an issue due to sorting.
 
 So a quick background on sorting. You can set a custom pivot in Unity's settings to do [isometric sorting](https://docs.unity3d.com/Manual/Tilemap-Isometric-CreateIso.html). While this works on regular shaped square sprites, this fails easily on irregular shaped sprites. What do I mean?
 
