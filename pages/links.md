@@ -41,6 +41,12 @@ title: 🔗 Interesting Links
 
 ### [Intro To Computer Systems - CSAPP](https://www.cs.cmu.edu/afs/cs/academic/class/15213-m17/www/schedule.html)
 
+### [Computational Geometry](https://geometry.cs.cmu.edu/ddg)
+
+### [Arena Allocators](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
+
+### [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/)
+
 ---
 
 ## 🙈 Unity
@@ -49,3 +55,4 @@ title: 🔗 Interesting Links
 
 ### [Time Slicing and Delayed Results Gathering](https://allenchou.net/blog/)
 
+### [Catlike Coding](https://catlikecoding.com/unity/tutorials/)
