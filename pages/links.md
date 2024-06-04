@@ -41,7 +41,7 @@ title: 🔗 Interesting Links
 
 ### [Intro To Computer Systems - CSAPP](https://www.cs.cmu.edu/afs/cs/academic/class/15213-m17/www/schedule.html)
 
-### [Computational Geometry](https://geometry.cs.cmu.edu/ddg)
+### [Computational Geometry](https://www.cs.cmu.edu/~kmcrane/)
 
 ### [Arena Allocators](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 
